@@ -14,7 +14,6 @@ Welcome to my GitHub profile! I'm a motivated and results-driven Computer Scienc
 - **Version Control**: Experienced in using Git for collaborative development and version control.
 
 ## 🏅 Certifications
-- Complete Vue Developer 2023: Zero to Mastery (Pinia, Vitest) - Udemy
 - GitHub - Computer Society of India [VNRVJIET]
 - Convergence: Coding Challenge - Certification [VNRVJIET]
 
