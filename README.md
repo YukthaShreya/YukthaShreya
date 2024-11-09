@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a motivated and results-driven Computer Scienc
   - **Skills:** Vue.js, GitHub, Flutter
   - **Outcomes:** Enhanced front-end development and teamwork skills.
 
-- **Android & iOS App and Web Developer (April 2023 - June 2023)**
+- **Android  App and Web Developer (April 2023 - June 2023)**
   - **Project:** E-commerce app and airline app development
   - **Skills:** Vue.js, GitHub, Flutter, Postman, REST API, PostgreSQL, Django
   - **Outcomes:** Improved app development and backend integration skills.
